@@ -51,12 +51,17 @@ reshama 🐘  $ ls *test*
 -rw-r--r--  1   0 Jul  5 19:02 testfile.md
 reshama 🐘  $ rm testfile.md
 remove testfile.md? y
+```
+Confirming that the file has been deleted  
+```bash
 reshama 🐘  $ ls *test*
 ls: *test*: No such file or directory
 reshama 🐘  $ 
 ```
 
 ---
+
+####Alias for clearing the terminal 
 
 ```bash
 reshama 🐘  $ c
