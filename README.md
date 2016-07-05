@@ -1,4 +1,6 @@
 #PyGotham 2016 
+[Reshama Shaikh on LinkedIn](https://www.linkedin.com/in/reshamas)  
+[Twitter:  @reshamas](https://twitter.com/reshamas)  
 Presentation on skills for the novice python user
 
 -
