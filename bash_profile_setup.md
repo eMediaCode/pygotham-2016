@@ -20,7 +20,8 @@ alias server="python -m SimpleHTTPServer"
 
 ```
 
-####Alias example for project folder
+####Alias shortcut example for project folder
+Adding shortcuts save you lots of typing and time
 ```
 reshama 🐘  $ pwd
 /Users/reshamashaikh
@@ -29,8 +30,8 @@ reshama 🐘  $ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8
 ```
  
-####Removing (or deleting) a File 
-Adding `alias rm='rm -i' to your `bash_profile` included an added check when deleting a file.   
+####Removing (or deleting) a file 
+Adding `alias rm='rm -i'` to your `bash_profile` includes an added check when deleting a file.   
 ```bash
 reshama 🐘  $ ls *test*
 -rw-r--r--  1   0 Jul  5 19:02 testfile.md
