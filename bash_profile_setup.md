@@ -56,6 +56,22 @@ ls: *test*: No such file or directory
 reshama 🐘  $ 
 ```
 
+---
+
+```bash
+reshama 🐘  $ c
+-bash: c: command not found
+reshama 🐘  $ emacs ~/.bash_profile
+reshama 🐘  $ source ~/.bash_profile
+reshama 🐘  $ c
+```
+Typing `c` now clears my console (terminal)  
+```
+reshama 🐘  $ 
+```
+
+
+
 ###References
 
 [Nate Landau's post: My Mac OSX Bash Profile](https://natelandau.com/my-mac-osx-bash_profile/)
