@@ -22,7 +22,7 @@ alias server="python -m SimpleHTTPServer"
 
 ####Alias shortcut example for project folder
 Adding shortcuts save you lots of typing and time
-```
+```bash
 reshama 🐘  $ pwd
 /Users/reshamashaikh
 reshama 🐘  $ ds8
