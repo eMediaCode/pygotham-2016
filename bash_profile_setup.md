@@ -29,18 +29,6 @@ reshama 🐘  $ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8
 ```
  
-####Before...
-This is what my terminal prompt used to look like (boring but safe):  
-```bash
-reshama$  
-```
+####Removing (or deleting) a File 
 
-####Get emoji
-Go to this website and choose an emoji.  Copy it.  
-http://getemoji.com/
-
-####Update bash profile 
-
-1.  Go to your bash profile.  
-`reshama$ emacs ~/.bash_profile
 
