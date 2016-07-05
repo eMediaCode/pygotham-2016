@@ -17,7 +17,7 @@ alias rm='rm -i'
 alias home="cd /Users/reshamashaikh"
 alias ds8="cd /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8"
 alias server="python -m SimpleHTTPServer"
-
+alias c='clear'
 ```
 
 ---
