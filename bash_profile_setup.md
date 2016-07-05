@@ -20,6 +20,8 @@ alias server="python -m SimpleHTTPServer"
 
 ```
 
+---
+
 ####Alias shortcut example for project folder
 Adding shortcuts save you lots of typing and time
 ```bash
@@ -29,7 +31,19 @@ reshama 🐘  $ ds8
 reshama 🐘  $ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8
 ```
- 
+
+If I want to go back to my home directory, I can type the alias `home` that I added to my `~/.bash_profile` file  
+```bash
+reshama 🐘  $ pwd
+/Users/reshamashaikh/_ds/metis/metisgh/pygotham-2016
+reshama 🐘  $ home
+reshama 🐘  $ pwd
+/Users/reshamashaikh
+reshama 🐘  $ 
+```
+
+---
+
 ####Removing (or deleting) a file 
 Adding `alias rm='rm -i'` to your `bash_profile` includes an added check when deleting a file.   
 ```bash
@@ -42,4 +56,6 @@ ls: *test*: No such file or directory
 reshama 🐘  $ 
 ```
 
+###References
 
+[Nate Landau's post: My Mac OSX Bash Profile](https://natelandau.com/my-mac-osx-bash_profile/)
