@@ -25,16 +25,16 @@ How to add an emoji to your bash prompt
 
 ### Table of Contents
 
-[1. Adding Emoji to Bash Prompt](#section-a)  
-[2. GREP (search)](#section-b)  
-[3. Markdown files - the basics](#section-c)  
-[4. Setting up bash_profile (with aliases (aka shortcuts) to save you time)](#section-d)  
-[5. Use bash commands (tree, comparing two files, Unix commands)](#section-e)
-[6. Editor keystroke shortcuts](#section-f)
+[0. Adding Emoji to Bash Prompt](#section-o)  
+[1. Setting up bash_profile (with aliases (aka shortcuts) to save you time)](#section-a) 
+[2. Use bash commands (tree, comparing two files, Unix commands)](#section-b)
+[3. GREP (search)](#section-c)  
+[4. Markdown files - the basics](#section-d)  
+[5. Editor keystroke shortcuts](#section-e)
 
 ---
 
-### <a name="section-a"></a>1. Adding Emoji to Bash Prompt
+### <a name="section-o"></a>0. Adding Emoji to Bash Prompt
 
 ---
  
