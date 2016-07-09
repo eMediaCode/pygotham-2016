@@ -8,7 +8,10 @@ Ctrl-k
 Shift + arrow down   - to select (one or more) lines
 
 
-copy
+
+
+
+
 
 
 
