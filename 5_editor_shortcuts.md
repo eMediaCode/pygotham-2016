@@ -1,5 +1,8 @@
 ##Editor Shortcuts
 
+###Sublime
+(Some, though not all, of these commands work in other editor types such as:  Markdown, Emacs, Gmail, Word)
+
 Ctrl-a  
 Ctrl-e  
 Ctrl-k  
