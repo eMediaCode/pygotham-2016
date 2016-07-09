@@ -88,7 +88,7 @@ bash_commands.md	bash_profile_setup.md	markdown.md
 reshama 🐘  $ 
 ```
 This is file listing with option `ls -Glp`:  
-```console
+```bash
 reshama 🐘  $ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/pygotham-2016
 reshama 🐘  $ ls
