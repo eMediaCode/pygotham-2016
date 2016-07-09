@@ -1,6 +1,6 @@
 ##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
-**Important:**  Look at your rendered markdown file before submitting!  :boom:  
+**Important:**  Look at your rendered markdown file before finalizing!  :boom:  
 
 #### Table of Contents
 [1)  Text Formatting](#section-a)  
