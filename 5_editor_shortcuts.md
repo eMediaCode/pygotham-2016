@@ -12,6 +12,9 @@ Shift + arrow down   - to select (one or more) lines
 
 
 
+###References 
+
+http://www.sublimetext.com/docs/selection
 
 
 
