@@ -15,10 +15,9 @@ $ emacs ~/.bash_profile
 alias home="cd /Users/reshamashaikh"
 alias ds8="cd /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8"
 alias c='clear'
-
-alias ls='ls -lGgo'
 alias rm='rm -i'
 
+alias ls='ls -lGgo'
 alias server="python -m SimpleHTTPServer"
 ```
 
