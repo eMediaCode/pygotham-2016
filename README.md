@@ -18,7 +18,7 @@ Learn to work more efficiently. If you're new to Unix and Markdown, this session
 ####Abstract
 In this talk, I will share 5 examples of 5 different topics that were at one time foreign to me. The goal of presenting 5 is enough to get you started, and you can explore more on your own. I will do a quick example of how to create a markdown file on GitHub and view it live. I will show how to set up your bash profile with 5 shortcuts so you can avoid unnecessary typing when navigating through your directories. I'll share my 5 most commonly used GREP commands, 5 keystroke shortcuts that work in almost any editor and 5 of my favorite bash commands.
 
-####Bonus
+####Added Bonus
 How to add an emoji to your bash prompt
 
 ---
@@ -32,10 +32,6 @@ How to add an emoji to your bash prompt
 [5. Markdown files - the basics](#section-d)  
 [6. Editor keystroke shortcuts](#section-e)
 
----
 
-### <a name="section-a"></a>1. Adding Emoji to Bash Prompt
-
----
  
  
