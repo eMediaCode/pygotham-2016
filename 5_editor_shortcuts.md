@@ -1,8 +1,12 @@
 ##Editor Shortcuts
 
-Ctrl-a
-Ctrl-e
-Ctrl-k
+Ctrl-a  
+Ctrl-e  
+Ctrl-k  
+
+select
+copy
+
 
 
 **Important:**  Look at your rendered markdown file before finalizing!  :boom:  
