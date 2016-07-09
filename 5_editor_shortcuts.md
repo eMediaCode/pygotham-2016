@@ -4,7 +4,10 @@ Ctrl-a
 Ctrl-e  
 Ctrl-k  
 
-select
+####Select block of text
+Shift + arrow down   - to select (one or more) lines
+
+
 copy
 
 
