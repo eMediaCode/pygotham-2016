@@ -1,12 +1,24 @@
 #PyGotham 2016 
 [Presentation abstract](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  
 
+##Presenter:  Reshama Shaikh
+
 ####Contact Info
-Name:  RESHAMA SHAIKH  
 LinkedIn:  https://www.linkedin.com/in/reshamas   
 Twitter:  [@reshamas](https://twitter.com/reshamas)  
 GitHub:  https://github.com/reshama/pygotham-2016  
 Email:   reshama.shaikh@stern.nyu.edu  
+
+####About Me:  Statistician, MBA, Teacher
+
+* Co-organizer of meetup group:  
+     NYC Women in Machine Learning & Data Science
+     http://wimlds.org/
+
+* Metis:  data science bootcamp training
+           http://www.thisismetis.com/
+
+---
 
 ####Title
 BEGINNER PYTHONISTAS: SETTING UP YOUR WORKSPACE (LIFE PRE-PYTHON)
