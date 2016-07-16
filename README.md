@@ -1,9 +1,11 @@
 #PyGotham 2016 
+[Presentation abstract](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  
+
+####Contact Info
 [Reshama Shaikh on LinkedIn](https://www.linkedin.com/in/reshamas)  
 [Twitter:  @reshamas](https://twitter.com/reshamas)  
 GitHub:  https://github.com/reshama/pygotham-2016  
-Email:   reshama.shaikh@stern.nyu.edu
-[Presentation abstract](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)
+Email:   reshama.shaikh@stern.nyu.edu  
 
 ####Title
 BEGINNER PYTHONISTAS: SETTING UP YOUR WORKSPACE (LIFE PRE-PYTHON)
