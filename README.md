@@ -2,8 +2,8 @@
 [Presentation abstract](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  
 
 ####Contact Info
-[Reshama Shaikh on LinkedIn](https://www.linkedin.com/in/reshamas)  
-[Twitter:  @reshamas](https://twitter.com/reshamas)  
+LinkedIn:  https://www.linkedin.com/in/reshamas 
+Twitter:  [@reshamas](https://twitter.com/reshamas)  
 GitHub:  https://github.com/reshama/pygotham-2016  
 Email:   reshama.shaikh@stern.nyu.edu  
 
