@@ -20,6 +20,17 @@ Email:   reshama.shaikh@stern.nyu.edu
 
 ---
 
+### Table of Contents
+
+[1. Adding Emoji to Bash Prompt](1_bash_emoji.md)  
+[2. Setting up bash_profile (with aliases (aka shortcuts) to save you time)](2_bash_profile_setup.md)  
+[3. Use bash commands (Unix commands)](3_bash_commands.md)  
+[4. Markdown files - the basics](4_markdown.md)  
+[5. Editor keystroke shortcuts](5_editor_shortcuts.md)  
+[6. GREP (search)](/grep_tutorial/) 
+
+---
+
 ####Title
 BEGINNER PYTHONISTAS: SETTING UP YOUR WORKSPACE (LIFE PRE-PYTHON)
 
@@ -37,17 +48,6 @@ In this talk, I will share 5 examples of 5 different topics that were at one tim
 
 ####Added Bonus
 How to add an emoji to your bash prompt
-
----
-
-### Table of Contents
-
-[1. Adding Emoji to Bash Prompt](1_bash_emoji.md)  
-[2. Setting up bash_profile (with aliases (aka shortcuts) to save you time)](2_bash_profile_setup.md)  
-[3. Use bash commands (Unix commands)](3_bash_commands.md)  
-[4. Markdown files - the basics](4_markdown.md)  
-[5. Editor keystroke shortcuts](5_editor_shortcuts.md)  
-[6. GREP (search)](/grep_tutorial/) 
 
 
  
