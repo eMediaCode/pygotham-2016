@@ -15,9 +15,6 @@ Email:   reshama.shaikh@stern.nyu.edu
      NYC Women in Machine Learning & Data Science
      http://wimlds.org/
 
-* Metis:  data science bootcamp training
-           http://www.thisismetis.com/
-
 ---
 
 ### Table of Contents
