@@ -1,6 +1,6 @@
-##Bash Commands
+## Bash Commands
 
-####`history` lists past commands
+#### `history` lists past commands
 ```bash
 reshama 🐘  $ history
 ```
@@ -22,7 +22,7 @@ Result:
 reshama 🐘  $ 
 ```
 
-####`!` + command number:  recall command without extra typing
+#### `!` + command number:  recall command without extra typing
 Type:  
 ```bash
 $ !514
@@ -37,14 +37,14 @@ reshama 🐘  $
 
 ---
 
-####To get what version of Python being used
+#### To get what version of Python being used
 ```bash
 reshama 🐘  $ python --version
 Python 2.7.11 :: Anaconda 2.4.0 (x86_64)
 reshama 🐘  $ 
 ```
 
-####To get what version of git is installed
+#### To get what version of git is installed
 ```bash
 reshama 🐘  $ git --version
 git version 2.7.4 (Apple Git-66)
@@ -53,7 +53,7 @@ reshama 🐘  $
 
 ---
 
-####To get what version of Python library being used
+#### To get what version of Python library being used
 ```bash
 reshama 🐘  $ pip freeze | grep 'numpy'
 reshama 🐘  $ pip freeze | grep 'numpy'
@@ -63,7 +63,7 @@ reshama 🐘  $
 
 ---
 
-####List of all Python libraries installed
+#### List of all Python libraries installed
 ```bash
 reshama 🐘  $ pip list
 ```
@@ -93,7 +93,7 @@ xlwt (1.0.0)
 
 
 
-####References
+#### References
 
 [My Favorite bash Tips and Tricks by Prentice Bisbal](http://www.linuxjournal.com/article/7385?page=0,1)
 
