@@ -1,4 +1,4 @@
-##[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+## [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
 **Important:**  Look at your rendered markdown file before finalizing!  :boom:  
 
@@ -106,7 +106,7 @@ print "hello world!"
 print "hello moon"
 ```
 
-####bash or console
+#### bash or console
 
 Block code that is non-specific:  
 ```
@@ -122,7 +122,7 @@ $ git remote -v
 $ ps awx | grep mongo
 ```
 
-####sql
+#### sql
 
 Block code that is non-specific:  
 ```
@@ -134,7 +134,7 @@ Block code that is **sql**-specific:
 SELECT * FROM Customers WHERE Country='Sweden';
 ```
 
-####Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
+#### Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
 
 ---
 
@@ -156,9 +156,9 @@ Content in the first column | Content in the second column
 
 ## <a name="section-i"></a>9) Practice Examples 
 
-####Data Science Trivia 
+#### Data Science Trivia 
 
-####Q1.  
+#### Q1.  
 What is the most installed language in the world?  
 - Python
 - SAS
@@ -170,7 +170,7 @@ What is the most installed language in the world?
 
 -
 
-####Q2.  
+#### Q2.  
 In hypothesis testing, we use the t score when the sample size is < 30 and the populations SD is unknown; else we use the Z score. 
 What is the distribution of t-squared?
  * Normal
@@ -183,7 +183,7 @@ What is the distribution of t-squared?
 
 ***
 
-####Q3.  
+#### Q3.  
 In the scikit-learn's official source repo, about how many issues are outstanding? (go ahead and check out their page)  
 1. 7  
 2. 70  
