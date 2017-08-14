@@ -1,15 +1,15 @@
-##Set up `bash_profile`
+## Set up `bash_profile`
 The bash profile contains global options.  Here we will set up some shortcuts to save on typing.  
 
 
-####Access bash_profile
+#### Access `bash_profile`
 This file is located in your home directory.  
 To access it, use any editor of your choice.
 ```
 $ emacs ~/.bash_profile
 ```
 
-####Add these options
+#### Add these options
 
 ```bash
 alias home="cd /Users/reshamashaikh"
@@ -23,7 +23,7 @@ alias server="python -m SimpleHTTPServer"
 
 ---
 
-####Alias shortcut example for project folder
+#### Alias shortcut example for project folder
 Adding shortcuts save you lots of typing and time
 ```bash
 reshama 🐘  $ pwd
@@ -33,7 +33,7 @@ reshama 🐘  $ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds8
 ```
 
-####Alias shortcut example for home directory
+#### Alias shortcut example for home directory
 If I want to go back to my home directory, I can type the alias `home` that I added to my `~/.bash_profile` file  
 ```bash
 reshama 🐘  $ pwd
@@ -46,7 +46,7 @@ reshama 🐘  $
 
 ---
 
-####Removing (or deleting) a file 
+#### Removing (or deleting) a file 
 Adding `alias rm='rm -i'` to your `bash_profile` includes an added check when deleting a file.   
 ```bash
 reshama 🐘  $ ls *test*
@@ -63,7 +63,7 @@ reshama 🐘  $
 
 ---
 
-####Alias for clearing the terminal 
+#### Alias for clearing the terminal 
 
 ```bash
 reshama 🐘  $ c
@@ -79,7 +79,7 @@ reshama 🐘  $
 
 ---
 
-####Alias for listing files 
+#### Alias for listing files 
 This is default file listing
 ```bash
 reshama 🐘  $ ls
@@ -104,6 +104,6 @@ reshama 🐘  $
 
 ---
 
-###References
+### References
 
 [Nate Landau's post: My Mac OSX Bash Profile](https://natelandau.com/my-mac-osx-bash_profile/)
