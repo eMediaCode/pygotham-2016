@@ -1,16 +1,16 @@
-##Process for Having a Most Amazing Bash Prompt
+## Process for Having a Most Amazing Bash Prompt
 
-####Before...
+#### Before...
 This is what my terminal prompt used to look like (boring but safe):  
 ```bash
 reshama$  
 ```
 
-####Get emoji
+#### Get emoji
 Go to this website and choose an emoji.  Copy it.  
 http://getemoji.com/
 
-####Update bash profile 
+#### Update bash profile 
 
 1.  Go to your bash profile.  
 `reshama$ emacs ~/.bash_profile`
@@ -26,7 +26,7 @@ C-x C-c  (to exit Emacs)
 4.  Run your updated bash profile file.  
 `reshama$ source ~/.bash_profile`
 
-####After!
+#### After!
 Voila!  My terminal prompt now looks like:  
 `reshama 🐘  $ `
 
